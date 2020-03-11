@@ -18,6 +18,7 @@
 		<Item Name="cut.vi" Type="VI" URL="../cut.vi"/>
 		<Item Name="flag.vi" Type="VI" URL="../flag.vi"/>
 		<Item Name="gps_time_frame.vi" Type="VI" URL="../gps_time_frame.vi"/>
+		<Item Name="gyro_hand_display.vi" Type="VI" URL="../gyro_hand_display.vi"/>
 		<Item Name="iram_time_frame.vi" Type="VI" URL="../iram_time_frame.vi"/>
 		<Item Name="manual_display.vi" Type="VI" URL="../manual_display.vi"/>
 		<Item Name="point_frame.vi" Type="VI" URL="../point_frame.vi"/>
@@ -83,6 +84,7 @@
 				<Item Name="Add State(s) to Queue__JKI_lib_State_Machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Add State(s) to Queue__JKI_lib_State_Machine.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi"/>
+				<Item Name="Build State String with Arguments__JKI_lib_State_Machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Build State String with Arguments__JKI_lib_State_Machine.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check for Equality.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Check for Equality.vi"/>
 				<Item Name="Check for multiple of dt.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Check for multiple of dt.vi"/>
