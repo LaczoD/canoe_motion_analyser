@@ -361,6 +361,7 @@
 				<Item Name="Treat Entity Name__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Treat Entity Name__JKI EasyXML.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
+				<Item Name="Waveform Scale and Offset.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Waveform Scale and Offset.vi"/>
 				<Item Name="WDT Get Waveform Subset CDB.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get Waveform Subset CDB.vi"/>
 				<Item Name="WDT Get Waveform Subset DBL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get Waveform Subset DBL.vi"/>
 				<Item Name="WDT Get Waveform Subset EXT.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get Waveform Subset EXT.vi"/>
@@ -386,10 +387,7 @@
 				<Item Name="XML Structure - Cluster__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Structure - Cluster__JKI EasyXML.ctl"/>
 				<Item Name="XML Tag Type - Enum__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Tag Type - Enum__JKI EasyXML.ctl"/>
 			</Item>
-			<Item Name="binary_get_metadata.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SubVIs/binary_get_metadata.vi"/>
-			<Item Name="binary_reader.vi" Type="VI" URL="../SubVIs/LV Code/binary_reader.vi"/>
 			<Item Name="Close_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Close_VSP.vi"/>
-			<Item Name="control_time_informations.ctl" Type="VI" URL="../SubVIs/LV Code/Controls/control_time_informations.ctl"/>
 			<Item Name="Init_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Init_VSP.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
