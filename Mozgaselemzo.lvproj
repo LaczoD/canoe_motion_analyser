@@ -17,6 +17,7 @@
 		<Item Name="1000m_frame.vi" Type="VI" URL="../1000m_frame.vi"/>
 		<Item Name="cut.vi" Type="VI" URL="../cut.vi"/>
 		<Item Name="flag.vi" Type="VI" URL="../flag.vi"/>
+		<Item Name="gps_comparator.vi" Type="VI" URL="../gps_comparator.vi"/>
 		<Item Name="gps_time_frame.vi" Type="VI" URL="../gps_time_frame.vi"/>
 		<Item Name="gyro_hand_display.vi" Type="VI" URL="../gyro_hand_display.vi"/>
 		<Item Name="iram_time_frame.vi" Type="VI" URL="../iram_time_frame.vi"/>
@@ -436,6 +437,47 @@
 				<Property Name="TgtF_productName" Type="Str">Display</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{9A0AE5FE-2F09-4E81-A4A2-93D53110F4B3}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Display.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="GPX Comparator" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{62F9B969-6CDC-4851-876A-09A1D458AB17}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{6FE2DAF4-CD83-4FEE-AF33-4EA269F6BFD5}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{0584734C-412F-461F-9025-3947736C1E0C}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">GPX Comparator</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Lenovo/Desktop/My Application</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{8670255B-3435-492E-AD42-9D6544ABB023}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">GPX Comparator.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Lenovo/Desktop/My Application/GPX Comparator.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/Lenovo/Desktop/My Application/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{71E83962-C007-4B1F-A7A6-E2C2504FF348}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/gps_comparator.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">Szegedi Tudományegyetem</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">GPX Comparator</Property>
+				<Property Name="TgtF_internalName" Type="Str">GPX Comparator</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2020 Szegedi Tudományegyetem</Property>
+				<Property Name="TgtF_productName" Type="Str">GPX Comparator</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{3A987D8F-5913-4C93-A8EA-C3706223F579}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">GPX Comparator.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
