@@ -23,6 +23,7 @@
 		<Item Name="iram_time_frame.vi" Type="VI" URL="../iram_time_frame.vi"/>
 		<Item Name="manual_display.vi" Type="VI" URL="../manual_display.vi"/>
 		<Item Name="point_frame.vi" Type="VI" URL="../point_frame.vi"/>
+		<Item Name="slope_test.vi" Type="VI" URL="../tests/slope_test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
