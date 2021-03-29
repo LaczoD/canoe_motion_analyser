@@ -408,28 +408,13 @@
 				<Item Name="XML Tag Type - Enum__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Tag Type - Enum__JKI EasyXML.ctl"/>
 			</Item>
 			<Item Name="Binary Reader.vi" Type="VI" URL="../tests/Binary Reader.vi"/>
-			<Item Name="binary_reader.vi" Type="VI" URL="../../SubVIs/LV Code/binary_reader.vi"/>
 			<Item Name="Close_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Close_VSP.vi"/>
-			<Item Name="extension_path_from_binary.vi" Type="VI" URL="../../SubVIs/framework/extension_path_from_binary.vi"/>
-			<Item Name="get_mean_speed_from_gpx_speed.vi" Type="VI" URL="../../SubVIs/GPX/get_mean_speed_from_gpx_speed.vi"/>
-			<Item Name="get_mean_speed_from_position.vi" Type="VI" URL="../../SubVIs/GPX/get_mean_speed_from_position.vi"/>
 			<Item Name="Init_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Init_VSP.vi"/>
-			<Item Name="insert_into_waveform.vi" Type="VI" URL="../../SubVIs/framework/insert_into_waveform.vi"/>
-			<Item Name="invert_waveform.vi" Type="VI" URL="../../SubVIs/framework/invert_waveform.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="make_sd_histogram.vi" Type="VI" URL="../../SubVIs/analysis/spectrum/make_sd_histogram.vi"/>
-			<Item Name="moving_average.vi" Type="VI" URL="../../SubVIs/framework/moving_average.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="peaks_and_crossings.vi" Type="VI" URL="../../SubVIs/analysis/time/peaks_and_crossings.vi"/>
-			<Item Name="positive_waveform_sum.vi" Type="VI" URL="../../SubVIs/framework/positive_waveform_sum.vi"/>
-			<Item Name="read_GPX_file.vi" Type="VI" URL="../../SubVIs/GPX/read_GPX_file.vi"/>
 			<Item Name="Read_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Read_VSP.vi"/>
-			<Item Name="snr_recursive.vi" Type="VI" URL="../../SubVIs/analysis/spectrum/snr_recursive.vi"/>
-			<Item Name="spectral_inspect.vi" Type="VI" URL="../../SubVIs/analysis/spectrum/spectral_inspect.vi"/>
-			<Item Name="stroke_rate.vi" Type="VI" URL="../../SubVIs/analysis/time/stroke_rate.vi"/>
-			<Item Name="waveform_array_to_xy_array.vi" Type="VI" URL="../../SubVIs/framework/waveform_array_to_xy_array.vi"/>
 			<Item Name="Write_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Write_VSP.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
