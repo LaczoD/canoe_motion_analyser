@@ -415,7 +415,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Read_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Read_VSP.vi"/>
-			<Item Name="time_all_in_one.vi" Type="VI" URL="../SubVIs/analysis/time/time_all_in_one.vi"/>
 			<Item Name="Write_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Write_VSP.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
