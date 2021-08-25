@@ -18,10 +18,10 @@
 		</Item>
 		<Item Name="1000m_frame.vi" Type="VI" URL="../1000m_frame.vi"/>
 		<Item Name="cut.vi" Type="VI" URL="../cut.vi"/>
-		<Item Name="flag.vi" Type="VI" URL="../flag.vi"/>
 		<Item Name="gps_comparator.vi" Type="VI" URL="../gps_comparator.vi"/>
 		<Item Name="gps_time_frame.vi" Type="VI" URL="../gps_time_frame.vi"/>
 		<Item Name="gyro_hand_display.vi" Type="VI" URL="../gyro_hand_display.vi"/>
+		<Item Name="gyro_hand_flag.vi" Type="VI" URL="../gyro_hand_flag.vi"/>
 		<Item Name="iram_time_frame.vi" Type="VI" URL="../iram_time_frame.vi"/>
 		<Item Name="manual_display.vi" Type="VI" URL="../manual_display.vi"/>
 		<Item Name="point_frame.vi" Type="VI" URL="../point_frame.vi"/>
