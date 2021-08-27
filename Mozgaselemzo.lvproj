@@ -409,6 +409,7 @@
 			</Item>
 			<Item Name="Binary Reader.vi" Type="VI" URL="../tests/Binary Reader.vi"/>
 			<Item Name="Close_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Close_VSP.vi"/>
+			<Item Name="get_header.vi" Type="VI" URL="../SubVIs/framework/get_header.vi"/>
 			<Item Name="Init_VSP.vi" Type="VI" URL="../SubVIs/Gyro_Reader/SerialPort_V2.llb/Init_VSP.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
